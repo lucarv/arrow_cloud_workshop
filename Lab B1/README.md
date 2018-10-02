@@ -11,7 +11,6 @@ BY USING THE AZURE SDKs AND SAMPLES FOUND [HERE](https://github.com/Azure/azure-
 
 ![](images/labb1.png)
 
-## EXTRA HARD !
-
-
+## Extra Hard
+Create a device twin property that will change the telemetry interval
 
