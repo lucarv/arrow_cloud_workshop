@@ -26,3 +26,7 @@ continue this tutorial [here] at the point wehere you install the runtime depend
 ## Follow this tutorial but DON'T CLEAN THE RESOURCES !!!
 
 Continue by following the stream analytics tutorial found [here](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics)
+
+
+## VERY ADVANCED SAMPLE
+Use the edge as a transparent gateway using the tutorial found [here](https://docs.microsoft.com/en-us/azure/iot-edge/how-to-create-transparent-gateway-linux)
