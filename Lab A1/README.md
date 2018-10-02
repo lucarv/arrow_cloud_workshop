@@ -5,7 +5,8 @@ For this lab we will:
 * visualize the event flow on the iot device explorer, 
 * save the messages to blob storage 
 * visualize the time series event 
-* and report back to the device via an Azure Function if the “Temperature becomes too hot.
+* create actions.
+* create a custom dashboard
 
 Pre-requisites:
 * You need to have an azure subscription that allows you to create resources

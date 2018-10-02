@@ -1,6 +1,6 @@
 ## Azure IoT Cloud Workshops
 
-Please see Lab 1
+Please see Lab A1
 
 
 
