@@ -59,7 +59,7 @@ Create a device, copy the connection string
 ### On Raspberry Pi
 1. SSH into the Device
 2. cd /iot
-3. ./iot "<CONNECTION STRING>
+3. ./iot.sh "<CONNECTION STRING>"
    
 
 ### On your laptop 
