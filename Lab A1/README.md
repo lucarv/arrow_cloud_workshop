@@ -13,7 +13,7 @@ BY FOLLOWING A STEP BY STEP GUIDE
 Pre-requisites:
 * You need to have an azure subscription that allows you to create resources
 * A raspberry pi with a temperature and humidity sensor connected
-* The [device explorer](https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer) installed on your windows laptop or [azure cli](https://aka.ms/iotcliaz) with the iot hub extension] or [visual code(https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-device-management-iot-toolkit) with azure iot hub extension]
+* The [device explorer](https://github.com/Azure/azure-iot-sdk-csharp/tree/master/tools/DeviceExplorer) installed on your windows laptop or [azure cli](https://marketplace.visualstudio.com/items?itemName=vsciot-vscode.azure-iot-toolkit) with the iot hub extension] or [visual code(https://docs.microsoft.com/en-us/azure/iot-hub/iot-hub-device-management-iot-toolkit) with azure iot hub extension]
 
 
 
@@ -60,6 +60,10 @@ Create a device, copy the connection string
 1. SSH into the Device
 2. cd /iot
 3. ./iot "<CONNECTION STRING>
+   
+
+### On yiur laptop 
+Verify message flow on Device explorer or CLI or Visual Code
 
 
 ### Create Time Serie Insights environment and associate with your IoT Hub
