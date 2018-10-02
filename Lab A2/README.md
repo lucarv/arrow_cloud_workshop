@@ -22,3 +22,7 @@ To connect to your new Ubuntu vm you can use Putty.
 
 continue this tutorial [here] at the point wehere you install the runtime dependencies:  
 (https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux)
+
+Follow this tutorial but DON'T CLEAN THE RESOURCES !!!
+
+Continue by following the stream analytics tutorial found [here](https://docs.microsoft.com/en-us/azure/iot-edge/tutorial-deploy-stream-analytics)
