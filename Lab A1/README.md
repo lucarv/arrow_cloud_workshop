@@ -21,6 +21,9 @@ You will create resources that will implement a standard reference archutecture 
 ![](images/architecture.png )
 
 ## Step-by-step guide
+
+### On azure Portal
+
 Sign in to <http://portal.azure.com>
 
 ### Create Resource group
@@ -47,7 +50,16 @@ Location North Europe
  
 Go back to your Resource group and verify that the IoT Hub there
 Create three consumer groups for the default route, one for device explorer, one for time series insights and one for seam analytics
-![](images/consumergroups.PNG)
+![](images/consumergroups.PNG)  
+
+Create a device, copy the connection string
+![](images/createdev.PNG)
+
+
+### On Raspberry Pi
+1. SSH into the Device
+2. cd /iot
+3. ./iot "<CONNECTION STRING>
 
 
 ### Create Time Serie Insights environment and associate with your IoT Hub
