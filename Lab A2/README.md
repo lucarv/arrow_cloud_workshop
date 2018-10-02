@@ -20,4 +20,5 @@ Ubuntu VM settings
 ### Install Putty and connect to Ubuntu vm
 To connect to your new Ubuntu vm you can use Putty.
 
-continue this tutorial [here] at the point wehere you install the runtime(https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux)
+continue this tutorial [here] at the point wehere you install the runtime dependencies:  
+(https://docs.microsoft.com/en-us/azure/iot-edge/quickstart-linux)
