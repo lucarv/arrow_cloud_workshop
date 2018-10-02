@@ -158,14 +158,14 @@ Modify the query so only humidity over a threshold value will generate a trigger
 In this step we wiill send an email to an administrator when a device is created without using any code!
 
 * Create an association between IoT Hub events and Event Grid. Select Events from the IoT Hub Menu 
-![](images/logicapp.PNG)  
+![](images/logicapp.png)  
   
 * Select LOGIC APP
 Modify the event hook as shown below, then press nest step
-![](images/logicapp2.PNG)  
+![](images/logicapp2.png)  
 
 * Choose Outlook or Gmail as your Connector, then send mail as action, edit the details of your message
-![](images/logicapp3.PNG)  
+![](images/logicapp3.png)  
 * Name the Logic App and save it
 * Go back to the portal (or device explorer) and create a new device. Check that an email is received by the recipient you selected 
 
