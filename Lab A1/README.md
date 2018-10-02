@@ -8,6 +8,8 @@ For this lab we will:
 * create actions.
 * create a custom dashboard
 
+BY FOLLOWING A STEP BY STEP GUIDE
+
 Pre-requisites:
 * You need to have an azure subscription that allows you to create resources
 * A raspberry pi with a temperature and humidity sensor connected
