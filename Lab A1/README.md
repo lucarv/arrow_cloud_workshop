@@ -62,7 +62,7 @@ Create a device, copy the connection string
 3. ./iot "<CONNECTION STRING>
    
 
-### On yiur laptop 
+### On your laptop 
 Verify message flow on Device explorer or CLI or Visual Code
 
 
