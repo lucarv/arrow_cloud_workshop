@@ -14,6 +14,15 @@ BY USING THE AZURE SDKs AND SAMPLES FOUND [HERE](https://github.com/Azure/azure-
 ## Advanced
 Create a device twin property that will change the telemetry interval
 
+### Create an IFTT action 
+In this step we wiill send an email to an administrator when a device is created without using any code!
+
+* Create an association between IoT Hub events and Event Grid. Select Events from the IoT Hub Menu  
+* Select LOGIC APP
+Modify the event hook in the drop down menus to select IoT Hub as event source and device creation as event
+* Choose Outlook or Gmail as your Connector, then send mail as action, edit the details of your message
+* Go back to the portal (or device explorer) and create a new device. C
+
 ## Path Multiplexing
 Create a Stream Analytics Job to multiplex telemetry into cold and hot path (you can jump to lab A1 for step by step instructions or try your luck on the portal)
 
