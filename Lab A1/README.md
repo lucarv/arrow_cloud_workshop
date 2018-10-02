@@ -166,7 +166,7 @@ Modify the event hook as shown below, then press nest step
 
 * Choose Outlook or Gmail as your Connector, then send mail as action, edit the details of your message
   ![](images/logicapp3.PNG)  
-
+* Name the Logic App and save it
 * Go back to the portal (or device explorer) and create a new device. Check that an email is received by the recipient you selected 
 
 
